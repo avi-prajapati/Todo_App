@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">⭐Note: The Purpose of the Bakaiti App is to Communicate with other.</p><br><br>
+<p align="left">⭐Note: The Purpose of the Todo App is to add task which we have to do.</p><br><br>
 
 ###
 
